@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstAndroidStudyApplication</string>
+
+    <string name="text_view1">마을버스 실시간 도착정보 제공 안내</string>
+    <string name="text_view2">노선번호, 정류소명/정류소번호</string>
+    <string name="action_settings">Settings</string>
+</resources>
